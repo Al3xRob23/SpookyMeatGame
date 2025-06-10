@@ -72,3 +72,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Particles_Wind_Control_System/Blueprints/BP_Particle_Snow.uasset
+Content/Particles_Wind_Control_System/Blueprints/Components/Particles/P_Dandelion.uasset
+Content/Particles_Wind_Control_System/Blueprints/Components/Particles/P_Snow.uasset
+Content/Particles_Wind_Control_System/Maps/Level_ParticlesOverview.umap
+Content/Particles_Wind_Control_System/Materials/M_Dandelion.uasset
+Content/Particles_Wind_Control_System/Materials/M_Snow.uasset
+Content/Particles_Wind_Control_System/Materials/Master/M_Sky.uasset
+Content/Particles_Wind_Control_System/Meshes/SM_Skybox.uasset
+Content/Particles_Wind_Control_System/Textures/HDRI/T_Day_C.uasset
+Content/Particles_Wind_Control_System/Textures/T_Dandelion_B.uasset
+Content/Particles_Wind_Control_System/Textures/T_Dandelion_Mask.uasset
+Content/Particles_Wind_Control_System/Textures/T_Snowflake_10_B.uasset
